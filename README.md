@@ -37,21 +37,7 @@ I’ll continue to:
 - Improve responsiveness 📱  
 - Experiment with different UI/UX styles 🎨  
 
----
 
-## 📷 Screenshots
-
-**Desktop View:**
-
-![Drum Kit Desktop](assets/drumkit-desktop.png)
-
-**Mobile View:**
-
-![Drum Kit Mobile](assets/drumkit-mobile.png)
-
-*(Replace with your own screenshots once added to the repo)*
-
----
 
 ## 🛠️ How to Run Locally
 
